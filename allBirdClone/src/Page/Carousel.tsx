@@ -12,8 +12,7 @@ const Carousel:React.FC<CarouselProp>=({Images,stick})=>{
 
   const stickyStyles: React.CSSProperties ={
   position:'sticky',
-  top:0,
-  left:0
+  top:0
 }
 const regularStyle: React.CSSProperties ={
   position:'relative'
@@ -26,7 +25,7 @@ const regularStyle: React.CSSProperties ={
     }
     return(
         <>
-        <div style={stick?stickyStyles:regularStyle}  className="w-full opacity-100 bg-white md:w-1/2 md:h-auto flex flex-col p-4">
+        <div  className="w-full opacity-100 bg-white md:w-1/2 md:h-auto flex flex-col p-4">
         <div className=" flex w-auto  h-auto ">
         <div className="  flex flex-col mr-2 h-full w-15  hidden md:block">
             {
@@ -47,7 +46,7 @@ const regularStyle: React.CSSProperties ={
         <motion.div whileHover={{scale:1.1}}className="  overflow-hidden shadow-gray-700 md:h-screen w-full bg-gray-100 rounded-4xl cursor-pointer ">
             <motion.div  transition={{duration:0.5, ease:"easeInOut"}}  className=" flex h-full transition-transform duration-200 ease-in-out " style={{transform:`translateX(-${currentSlide * 100}%)`}}>
                 <div className=" flex  "> 
-                    { // having issues in trying to place the main image width with image gallery in sm
+                    { 
                         Images.map((image,index)=>{
                                
                             return(<img key={index} className="min-w-full min-h-full cursor-pointer " src={image.src} alt={image.alt}></img>)

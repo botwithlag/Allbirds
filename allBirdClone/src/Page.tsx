@@ -92,6 +92,5 @@ gatherSimilarUsers("product")
   )
 }
 
-/// issue faced cannot use cart state without prop drilling 
 
 export default Page
