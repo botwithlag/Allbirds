@@ -1,5 +1,4 @@
 import { Text } from "@radix-ui/themes"
-import DOMPurify from "dompurify"
 import { Button } from "@radix-ui/themes"
 interface Products{
     title:string,

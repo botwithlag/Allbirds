@@ -72,7 +72,6 @@ gatherSimilarUsers("product")
             <div className='mt-5 flex  '>    
               <AddToCart handle={product.handle} img={product.images[0].src} price={product.price} ></AddToCart>
            </div>
-          <div className="h-100 w-1/2"></div>
         
         </div>
         </div>
