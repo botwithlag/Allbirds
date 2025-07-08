@@ -1,0 +1,25 @@
+[{
+  "id":1,
+  "handle":"mens-tree-runner-go-blizzard-hanami-night",
+   "price":12000, 
+  "img":"//www.allbirds.com/cdn/shop/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_SINGLE_3Q-2000x2000_977d62c0-ba74-42c2-bd3c-3e57508532cf.png?v=1737574058"
+},
+{
+    "id":2,
+    "handle":"mens-merino-blend-sweatshirt",
+    "price":9000, 
+    "img":"\/\/www.allbirds.com\/cdn\/shop\/files\/25Q1_Apparel_MerinoBlendSweatshirt_Site_PDP_Men_TrueBlack_Front_1600x1600_fd10e7ae-bd20-4f97-94ab-d0c9d5ed594f.jpg?v=1738091757"
+    
+},
+{
+    "id":3,
+     "handle":"womens-tree-runner-go-rugged-beige",
+     "price":12000, 
+    "img":"https://cdn.allbirds.com/image/upload/f_auto,q_auto/v1/production/colorway/en-US/images/4wiJUJGuljEpXR3GRIh0mQ/1"
+},
+{
+    "id":4,
+    "handle":"Men's Tree Runner",
+    "price":9800, 
+    "img":"//www.allbirds.com/cdn/shop/files/TR2MMST_SHOE_TOP_GLOBAL_MENS_TREE_RUNNER_MIST_WHITE_4d0a5508-41bd-4a36-bb0d-2f1193bfd4df.png?v=1717711511"
+}]

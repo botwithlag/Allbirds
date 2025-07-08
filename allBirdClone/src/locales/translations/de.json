@@ -1,0 +1,14 @@
+{
+    "title":"allbirds",
+    "selectLanguage":"Wählen Sie Sprache aus",
+    "Checkout":"Kasse",
+    "Home":"heim",
+    "Classics":"Klassiker",
+    "RecentlyViewed": "Zuletzt angesehen" ,
+    "AddToCart":"In den Warenkorb",
+    "sizes": "Größen",
+  "see_size_chart": "Größentabelle ansehen",
+  "clear_cart": "Warenkorb leeren",
+  "go_to_checkout": "Zur Kasse gehen",
+  "flat_50_off": "Pauschal 50% Rabatt"
+}

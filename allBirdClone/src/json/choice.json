@@ -1,0 +1,229 @@
+  [
+        {
+            "id": 627907,
+            "name": "PDP Sidebar Recs",
+            "type": "RECS_DECISION",
+            "variations": [
+                {
+                    "id": 29213116,
+                    "payload": {
+                        "data": {
+                            "custom": {
+                                "title": "Also Consider",
+                                "showColorway": "false"
+                            },
+                            "slots": [
+                                {
+                                    "sku": "A11348M080",
+                                    "productData": {
+                                        "group_id": "c57e117cc732503adfc9b835c1a50c1f",
+                                        "categories": [
+                                            "Men's Shoes > Everyday Sneakers > Tree Runner Go"
+                                        ],
+                                        "keywords": [
+                                            "everyday",
+                                            "warm-weather",
+                                            "Blue",
+                                            "runner",
+                                            "tree",
+                                            "Blizzard\\/Hanami Night"
+                                        ],
+                                        "in_stock": true,
+                                        "publish_time": "2025-06-09T01:08:13",
+                                        "name": "Men's Tree Runner Go",
+                                        "url": "https://www.allbirds.com/products/mens-tree-runner-go-blizzard-hanami-night?size=8",
+                                        "image_url": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_SINGLE_3Q-2000x2000_977d62c0-ba74-42c2-bd3c-3e57508532cf.png?v=1737574058",
+                                        "price": 120,
+                                        "color": "Blue",
+                                        "age_group": "Adult",
+                                        "gender": "mens",
+                                        "dy_display_price": "120",
+                                        "size": "8",
+                                        "sale_price": "",
+                                        "gtin": "196942154250",
+                                        "size_system": "US",
+                                        "material": "tree",
+                                        "additional_image_link": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_LEFT-2000x2000_b5cf6ab1-d0bf-41b8-aacf-1dca356133b5.png?v=1737574058,https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_BACK-2000x2000_dea385e1-0708-4d0a-924f-ac1c16081628.png?v=1737574058,https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_TD-2000x2000_a30536ca-9987-4486-bc31-c955403f0462.png?v=1737574058,https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_SOLE-2000x2000_eed61297-f362-48e0-82f6-7c972359cb34.png?v=1737574058,https://cdn.shopify.com/s/files/1/1104/4168/files/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_PAIR_3Q-2000x2000_df7a0189-c00d-4e69-a03f-39e6f8544b94.png?v=1737574058",
+                                        "display_color": "Blizzard\\/Hanami Night (Blizzard Sole)",
+                                        "inventory_quantity": "106",
+                                        "item_group_id": "7091623198800",
+                                        "non-gender style": "tree runner",
+                                        "parent_category": "Shoes",
+                                        "edition": "limited",
+                                        "status": "published",
+                                        "display_color_no_sole": "Blizzard\\/Hanami Night",
+                                        "best_for": "everyday|warm-weather",
+                                        "silhouette": "runner",
+                                        "handle": "mens-tree-runner-go-blizzard-hanami-night",
+                                        "related_skus": "A11348M080,A11348M085,A11348M090,A11348M095,A11348M100,A11348M105,A11348M110,A11348M115,A11348M120,A11348M125,A11348M130,A11348M135,A11348M140",
+                                        "featured_image_v2": "https://images.ctfassets.net/9uo1qvvet3xa/5tgq3j39tdSKCKgKJsYUcg/c86228a232869c0da6143598133d15ab/A11354_25Q1_Tree_Runner_Go_Blizzard_Hanami_Night_Blizzard_PDP_LEFT-2000x2000.png",
+                                        "price_tier": "msrp",
+                                        "parent_handle": "mens-tree-runner-go"
+                                    },
+                                    "slotId": "mIOkdHlwZadQUk9EVUNUpGRhdGGRqkFBMDAwVU0wODCobG9jYXRpb27ZRmh0dHBzOi8vd3d3LmFsbGJpcmRzLmNvbS9wcm9kdWN0cy9tZW5zLXRyZWUtZGFzaGVycy1tZWRpdW0tZ3JleT9zaXplPTjNZ6jOAAXoC8IAqkExMTM0OE0wODAJAA==*nLQtMjY5OTY3NzExNjI0ODU3MTE3OM4AErtNqDEzNjk2MzA2AZCRzgG9wbylMjQ0MTTA2SBkOWY0NWYxYzkyYWE3Nzc0Yzg5ZGY0NDg4ZTc5ZWE0YrM0NDg5MjQyMzc1NTk5ODc2MDAywMA="
+                                },
+                                {
+                                    "sku": "A11362M090",
+                                    "productData": {
+                                        "group_id": "e4bf5ac7fe78a624f7ff5edad20d9d6f",
+                                        "categories": [
+                                            "Men's Shoes > Everyday Sneakers > Tree Runner Go"
+                                        ],
+                                        "keywords": [
+                                            "everyday",
+                                            "warm-weather",
+                                            "White",
+                                            "runner",
+                                            "tree",
+                                            "Natural White\\/Rustic Orange"
+                                        ],
+                                        "in_stock": true,
+                                        "publish_time": "2025-06-09T01:08:13",
+                                        "name": "Men's Tree Runner Go",
+                                        "url": "https://www.allbirds.com/products/mens-tree-runner-go-natural-white-rustic-orange?size=9",
+                                        "image_url": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_SINGLE_3Q-2000x2000.png?v=1742925207",
+                                        "price": 120,
+                                        "color": "White",
+                                        "age_group": "Adult",
+                                        "gender": "mens",
+                                        "dy_display_price": "120",
+                                        "size": "9",
+                                        "sale_price": "",
+                                        "gtin": "196942155899",
+                                        "size_system": "US",
+                                        "material": "tree",
+                                        "additional_image_link": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_LEFT-2000x2000.png?v=1742925207,https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_BACK-2000x2000.png?v=1742925207,https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_TD-2000x2000.png?v=1742925207,https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_SOLE-2000x2000.png?v=1742925207,https://cdn.shopify.com/s/files/1/1104/4168/files/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_PAIR_3Q-2000x2000.png?v=1742925207",
+                                        "display_color": "Natural White\\/Rustic Orange (Blizzard Sole)",
+                                        "inventory_quantity": "4",
+                                        "item_group_id": "7131034714192",
+                                        "non-gender style": "tree runner",
+                                        "parent_category": "Shoes",
+                                        "edition": "limited",
+                                        "status": "published",
+                                        "display_color_no_sole": "Natural White\\/Rustic Orange",
+                                        "best_for": "everyday|warm-weather",
+                                        "silhouette": "runner",
+                                        "handle": "mens-tree-runner-go-natural-white-rustic-orange",
+                                        "related_skus": "A11362M080,A11362M085,A11362M090,A11362M095,A11362M100,A11362M105,A11362M110,A11362M115,A11362M120,A11362M125,A11362M130,A11362M135,A11362M140",
+                                        "featured_image_v2": "https://images.ctfassets.net/9uo1qvvet3xa/3KjcaaIFByHkD1wlm0slNc/75cff4404541c1b0e5c1e2b531b92698/A11362_25Q2_Tree_Runner_Go_Natural_White_Rustic_Orange_Blizzard_PDP_LEFT-2000x2000.png",
+                                        "price_tier": "msrp",
+                                        "parent_handle": "mens-tree-runner-go"
+                                    },
+                                    "slotId": "mIOkdHlwZadQUk9EVUNUpGRhdGGRqkFBMDAwVU0wODCobG9jYXRpb27ZRmh0dHBzOi8vd3d3LmFsbGJpcmRzLmNvbS9wcm9kdWN0cy9tZW5zLXRyZWUtZGFzaGVycy1tZWRpdW0tZ3JleT9zaXplPTjNZ6jOAAXoC8IBqkExMTM2Mk0wOTAJAQ==*nLQtMjY5OTY3NzExNjI0ODU3MTE3OM4AErtNqDEzNjk2MzA2AZCRzgG9wbylMjQ0MTTA2SBkOWY0NWYxYzkyYWE3Nzc0Yzg5ZGY0NDg4ZTc5ZWE0YrM0NDg5MjQyMzc1NTk5ODc2MDAywMA="
+                                },
+                                {
+                                    "sku": "A10645M080",
+                                    "productData": {
+                                        "group_id": "ba582068101784052d047b294d0e41c3",
+                                        "categories": [
+                                            "Men's Shoes > Everyday Sneakers > Tree Runner Go"
+                                        ],
+                                        "keywords": [
+                                            "everyday",
+                                            "warm-weather",
+                                            "White",
+                                            "runner",
+                                            "tree",
+                                            "Blizzard"
+                                        ],
+                                        "in_stock": true,
+                                        "publish_time": "2025-06-09T01:08:13",
+                                        "name": "Men's Tree Runner Go",
+                                        "url": "https://www.allbirds.com/products/mens-tree-runner-go?size=8",
+                                        "image_url": "https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_SINGLE_3Q_f21ed04b-6c07-4de4-89e1-b111e6aa8ef5.png?v=1718131584",
+                                        "price": 120,
+                                        "color": "White",
+                                        "age_group": "Adult",
+                                        "gender": "mens",
+                                        "dy_display_price": "120",
+                                        "size": "8",
+                                        "sale_price": "",
+                                        "gtin": "196942079768",
+                                        "size_system": "US",
+                                        "material": "tree",
+                                        "additional_image_link": "https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_LEFT_d4d7c136-5bd6-4d99-a78a-733e8cf8d1c4.png?v=1718131584,https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_BACK_006fc7b1-efbf-4bc7-9707-09fd057cd505.png?v=1718131584,https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_TD_74236e51-e559-440f-a530-7415ad7c84b0.png?v=1718131584,https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_SOLE_1a082340-3068-4e5c-9bb1-a6edd2179fac.png?v=1718131584,https://cdn.shopify.com/s/files/1/1104/4168/files/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_PAIR_3Q_f845e90d-87dc-4f08-92b3-63cc61672f64.png?v=1718131584",
+                                        "display_color": "Blizzard (Blizzard Sole)",
+                                        "inventory_quantity": "140",
+                                        "item_group_id": "6930103238736",
+                                        "non-gender style": "tree runner",
+                                        "parent_category": "Shoes",
+                                        "edition": "classic",
+                                        "status": "published",
+                                        "display_color_no_sole": "Blizzard",
+                                        "best_for": "everyday|warm-weather",
+                                        "silhouette": "runner",
+                                        "handle": "mens-tree-runner-go",
+                                        "related_skus": "A10645M080,A10645M085,A10645M090,A10645M095,A10645M100,A10645M105,A10645M110,A10645M115,A10645M120,A10645M125,A10645M130,A10645M135,A10645M140",
+                                        "featured_image_v2": "https://images.ctfassets.net/9uo1qvvet3xa/5SJIjXtV7eMX2ArKi8Rg6w/2cf85482f608aaeadfbc759c2088d222/A10645_S24Q2_Tree_Runner_GO_Blizzard_Blizzard_PDP_LEFT.png",
+                                        "price_tier": "msrp",
+                                        "parent_handle": "mens-tree-runner-go"
+                                    },
+                                    "slotId": "mIOkdHlwZadQUk9EVUNUpGRhdGGRqkFBMDAwVU0wODCobG9jYXRpb27ZRmh0dHBzOi8vd3d3LmFsbGJpcmRzLmNvbS9wcm9kdWN0cy9tZW5zLXRyZWUtZGFzaGVycy1tZWRpdW0tZ3JleT9zaXplPTjNZ6jOAAXoC8ICqkExMDY0NU0wODAJAg==*nLQtMjY5OTY3NzExNjI0ODU3MTE3OM4AErtNqDEzNjk2MzA2AZCRzgG9wbylMjQ0MTTA2SBkOWY0NWYxYzkyYWE3Nzc0Yzg5ZGY0NDg4ZTc5ZWE0YrM0NDg5MjQyMzc1NTk5ODc2MDAywMA="
+                                },
+                                {
+                                    "sku": "A11347M080",
+                                    "productData": {
+                                        "group_id": "36adcdf0de3e46107b2ad4de89f24c07",
+                                        "categories": [
+                                            "Men's Shoes > Everyday Sneakers > Tree Runner Go"
+                                        ],
+                                        "keywords": [
+                                            "everyday",
+                                            "warm-weather",
+                                            "Green",
+                                            "runner",
+                                            "tree",
+                                            "Hazy Pine"
+                                        ],
+                                        "in_stock": true,
+                                        "publish_time": "2025-06-09T01:08:13",
+                                        "name": "Men's Tree Runner Go",
+                                        "url": "https://www.allbirds.com/products/mens-tree-runner-go-hazy-pine?size=8",
+                                        "image_url": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_SINGLE_3Q-2000x2000.png?v=1743020234",
+                                        "price": 120,
+                                        "color": "Green",
+                                        "age_group": "Adult",
+                                        "gender": "mens",
+                                        "dy_display_price": "120",
+                                        "size": "8",
+                                        "sale_price": "",
+                                        "gtin": "196942154106",
+                                        "size_system": "US",
+                                        "material": "tree",
+                                        "additional_image_link": "https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_LEFT-2000x2000.png?v=1743020234,https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_BACK-2000x2000.png?v=1743020234,https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_TD-2000x2000.png?v=1743020234,https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_SOLE-2000x2000.png?v=1743020235,https://cdn.shopify.com/s/files/1/1104/4168/files/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_PAIR_3Q-2000x2000.png?v=1743020234",
+                                        "display_color": "Hazy Pine (Natural White Sole)",
+                                        "inventory_quantity": "7",
+                                        "item_group_id": "7130994081872",
+                                        "non-gender style": "tree runner",
+                                        "parent_category": "Shoes",
+                                        "edition": "limited",
+                                        "status": "published",
+                                        "display_color_no_sole": "Hazy Pine",
+                                        "best_for": "everyday|warm-weather",
+                                        "silhouette": "runner",
+                                        "handle": "mens-tree-runner-go-hazy-pine",
+                                        "related_skus": "A11347M080,A11347M085,A11347M090,A11347M095,A11347M100,A11347M105,A11347M110,A11347M115,A11347M120,A11347M125,A11347M130,A11347M135,A11347M140",
+                                        "featured_image_v2": "https://images.ctfassets.net/9uo1qvvet3xa/1RReNpP0ZHauzJn2anm0at/9475b92ad847eb7da3f73d2bb2280fe5/A11347_25Q2_Tree_Runner_Go_Hazy_Pine_Natural_White_PDP_LEFT-2000x2000.png",
+                                        "price_tier": "msrp",
+                                        "parent_handle": "mens-tree-runner-go"
+                                    },
+                                    "slotId": "mIOkdHlwZadQUk9EVUNUpGRhdGGRqkFBMDAwVU0wODCobG9jYXRpb27ZRmh0dHBzOi8vd3d3LmFsbGJpcmRzLmNvbS9wcm9kdWN0cy9tZW5zLXRyZWUtZGFzaGVycy1tZWRpdW0tZ3JleT9zaXplPTjNZ6jOAAXoC8IDqkExMTM0N00wODAJAw==*nLQtMjY5OTY3NzExNjI0ODU3MTE3OM4AErtNqDEzNjk2MzA2AZCRzgG9wbylMjQ0MTTA2SBkOWY0NWYxYzkyYWE3Nzc0Yzg5ZGY0NDg4ZTc5ZWE0YrM0NDg5MjQyMzc1NTk5ODc2MDAywMA="
+                                }
+                            ]
+                        },
+                        "type": "RECS"
+                    },
+                    "analyticsMetadata": {
+                        "campaignId": 627907,
+                        "campaignName": "Evergreen PDP - All Devices - Also Bought With",
+                        "experienceId": 1214094,
+                        "experienceName": "High Intent - Also Bought With",
+                        "variationId": 29213116,
+                        "variationName": "High Intent - Bestsellers Rec's"
+                    }
+                }
+            ],
+            "groups": [],
+            "decisionId": "nLQtMjY5OTY3NzExNjI0ODU3MTE3OM4AErtNqDEzNjk2MzA2AZCRzgG9wbylMjQ0MTTA2SBkOWY0NWYxYzkyYWE3Nzc0Yzg5ZGY0NDg4ZTc5ZWE0YrM0NDg5MjQyMzc1NTk5ODc2MDAywMA="
+        }]
+       
