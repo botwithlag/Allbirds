@@ -1,0 +1,15 @@
+{
+  "name": "allbirds",
+  "version": "1.0.0",
+  "private": true, 
+  "workspaces": [ 
+    "allBirdClone",    
+    "api"          
+  ],
+  "scripts": {
+     "start:dev": "npm-run-all --parallel start:allBirdClone start:api",
+    "start:frontend": "npm run start --workspace=allBirdClone",
+    "start:api": "npm run start --workspace=api"
+  }
+
+}
